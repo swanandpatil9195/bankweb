@@ -3,19 +3,19 @@
     padding: 0;
 }
 body {
-    background-color: #1B1B2F;
-    color: #EAEAEA;
+    background-color: #F4F4F4;
+    color: #333333;
     font-family: Arial, sans-serif;
 }
 nav {
     text-align: center;
     padding: 10px;
-    background-color: #162447;
+    background-color: #2C3E50;
 }
 nav a {
     text-decoration: none;
     padding: 8px 12px;
-    background-color: #1F4068;
+    background-color: #34495E;
     color: white;
     font-weight: bold;
     border-radius: 5px;
@@ -31,13 +31,13 @@ img {
     margin: auto;
     padding: 8px 12px;
     color: white;
-    background-color: #007BFF;
+    background-color:#2C3E50;
     text-decoration: none;
     border-radius: 5px;
     font-weight: bold;
 }
 #home a:hover {
-    background-color: #0056b3;
+    background-color: #2980B9;
 }
 #features {
     padding: 20px;
@@ -56,9 +56,9 @@ img {
     grid-column: 2/3;
 }
 .feature {
-    background-color: #2C3E50;
+    background-color: #BDC3C7;
     padding: 10px;
-    color: white;
+    color: #333;
     border-radius: 5px;
 }
 .testimonials_container {
@@ -75,18 +75,18 @@ img {
     padding: 8px 12px;
     color: white;
     text-decoration: none;
-    background-color: #007BFF;
+    background-color: #2C3E50;
     border-radius: 5px;
     font-weight: bold;
 }
 #testimonials a:hover {
-    background-color: #0056b3;
+    background-color: #2980B9;
 }
 .testimonial {
-    background-color: #2C3E50;
+    background-color: #ECF0F1;
     padding: 10px;
     border-radius: 5px;
-    color: white;
+    color: #333;
 }
 section h3 {
     text-align: center;
@@ -94,14 +94,17 @@ section h3 {
 }
 #contact {
     text-align: justify;
-    background-color: #162447;
+    background-color: #2C3E50;
     color: white;
     padding: 20px;
 }
 footer {
     text-align: center;
-    background-color: #1F4068;
+    background-color: #34495E;
     color: white;
     padding: 15px;
     font-weight: bold;
+}
+h1{
+    padding: 20px;
 }
